@@ -1,2 +1,4 @@
 ketchup
 fideos
+carne
+cebollas
