@@ -2,6 +2,8 @@ ketchup
 fideos
 carne
 cebollas
+shampoo
+crema enjuague
 
 --------------------
 LISTA CONGELADOS
