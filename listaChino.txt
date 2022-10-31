@@ -2,8 +2,13 @@ ketchup
 fideos
 carne
 cebollas
+<<<<<<< HEAD
 shampoo
 crema enjuague
+=======
+cepillo dientes
+helado
+>>>>>>> lista-julia
 
 --------------------
 LISTA CONGELADOS
