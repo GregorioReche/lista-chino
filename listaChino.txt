@@ -3,11 +3,7 @@ fideos
 carne
 cebollas
 shampoo
-crema enjuague
-cepillo dientes
-helado
-facturas
-TV
+
 
 --------------------
 LISTA CONGELADOS
