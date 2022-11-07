@@ -3,6 +3,8 @@ fideos
 carne
 cebollas
 shampoo
+chorizo
+pan
 
 
 --------------------
