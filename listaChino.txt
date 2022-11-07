@@ -3,7 +3,8 @@ fideos
 carne
 cebollas
 shampoo
-federico federico
+chorizo
+pan
 
 
 --------------------
